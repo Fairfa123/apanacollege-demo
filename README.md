@@ -1,4 +1,4 @@
 # apanacollege-demo
 This is my first Git Repository.
-<bdr>
+<br>
 Author- Dinesh Adhikari
